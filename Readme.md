@@ -1,4 +1,4 @@
-# n8n deploy with Docker Compose
+# Self host n8n deploy with Docker Compose
 This repository contains a Docker Compose configuration to deploy n8n. 
 
 ## Prerequisites
